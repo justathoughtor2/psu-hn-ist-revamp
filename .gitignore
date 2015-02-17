@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -26,3 +27,27 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+=======
+/build/
+/benchpress-build/
+.DS_Store
+gen_docs.disable
+test.disable
+regression/temp*.html
+performance/temp*.html
+.idea/workspace.xml
+*~
+*.swp
+angular.js.tmproj
+/node_modules/
+bower_components/
+angular.xcodeproj
+.idea
+*.iml
+.agignore
+.lvimrc
+libpeerconnection.log
+npm-debug.log
+/tmp/
+/scripts/bower/bower-*
+>>>>>>> 49b54b0d774ce9c1c1397848bb5d2b4baa8a034b
